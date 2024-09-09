@@ -16,5 +16,4 @@ document.getElementById('studentForm').addEventListener('submit', function(event
     } else {
         alert('Please fill out all fields');
     }
-    
 });
